@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with love by Adam Bowers
+
+### Copyright2019 Run Buddy, Inc
